@@ -38,7 +38,7 @@ These files are not included in this repository. They will be available at:  *to
 2. Set the path to the input folder in the first chunk of the script (`data_dir`).
 3. Render the document with Quarto: `quarto render scripts/[script name].qmd`
 
-## Authors and contact
+## Authors and contacts
 
 Livio Antonielli, Laurenz Holcik, Chiara Traina
 livio.antonielli@ait.ac.at, ..., chiara.traina@unito.it
