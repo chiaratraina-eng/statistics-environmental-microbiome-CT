@@ -35,7 +35,7 @@ These files are not included in this repository. They will be available at:  *to
 
 1. Download the input files and keep the folder structure described above.
 2. Set the path to the input folder in the first chunk of the script (`data_dir`).
-3. Render the document with Quarto: `quarto render scripts/[script name].qmd`
+3. Render the document with Quarto: `quarto render scripts/[script name to be added].qmd`
 
 ## Authors and contacts
 
