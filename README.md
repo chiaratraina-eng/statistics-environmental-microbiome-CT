@@ -41,3 +41,4 @@ These files are not included in this repository. They will be available at:  *to
 ## Authors and contact
 
 Livio Antonielli, Laurenz Holcik, Chiara Traina
+livio.antonielli@ait.ac.at, ..., chiara.traina@unito.it
