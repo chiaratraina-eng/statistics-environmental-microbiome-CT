@@ -2,7 +2,7 @@
 
 Statistical analysis and figure generation code for bacterial and fungal metabarcoding data.
 
-This repository accompanies the manuscript: *Microbial continuity across an olive farm-to-food continuum reveals stable reservoirs, ecological filtering and microbiome transmission, Environmental Microbiome, currently with editor*.
+This repository accompanies the manuscript: *Microbial continuity across an olive farm-to-food continuum reveals stable reservoirs, ecological filtering and microbiome transmission, submitted to Environmental Microbiome*.
 
 ## Overview
 
@@ -39,5 +39,4 @@ These files are not included in this repository. They will be available at:  *to
 
 ## Authors and contacts
 
-Livio Antonielli, Laurenz Holcik, Chiara Traina
-livio.antonielli@ait.ac.at, ..., chiara.traina@unito.it
+Livio Antonielli (livio.antonielli@ait.ac.at), Laurenz Holcik (Laurenz.Holcik@ait.ac.at), Chiara Traina (chiara.traina@unito.it)
