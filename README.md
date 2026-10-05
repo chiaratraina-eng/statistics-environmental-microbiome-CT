@@ -12,8 +12,8 @@ Raw sequencing reads are available at the European Nucleotide Archive (ENA) unde
 
 ## Repository contents
 
-- `scripts/` – Quarto document with the statistical analyses and figures of the study
-- `data/` – description of the required input files (the data are not stored in this repository)
+- `scripts/` - Quarto document with the statistical analyses and figures of the study
+- `data/` - description of the required input files (the data are not stored in this repository)
 
 ## Software requirements
 
