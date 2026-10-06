@@ -2,7 +2,7 @@
 
 Statistical analysis and figure generation code for bacterial and fungal metabarcoding data.
 
-This repository contains the R Markdown file that accompanies the manuscript: *Microbial continuity across an olive farm-to-food continuum reveals stable reservoirs, ecological filtering and microbiome transmission, submitted to Environmental Microbiome*.
+This repository contains the Quarto file (.qmd) that accompanies the statistical analysis of the manuscript: *Microbial continuity across an olive farm-to-food continuum reveals stable reservoirs, ecological filtering and microbiome transmission*, submitted to Environmental Microbiome.
 
 ## Overview
 
