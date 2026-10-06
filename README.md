@@ -6,7 +6,7 @@ This repository contains the Quarto file (.qmd) that accompanies the statistical
 
 ## Overview
 
-Raw 16S rRNA gene and ITS sequencing reads (2022 and 2023) were processed with the MetaFlux workflow (https://github.com/iLivius/MetaFlux), which produced the ASV tables and read-count summaries used here. This repository contains only the downstream statistical analyses and figure generation.
+Raw 16S rRNA gene and ITS sequencing reads (2022 and 2023) were processed with the MetaFlux workflow (https://github.com/iLivius/MetaFlux), which produced the ASV tables and read-count summaries used here. This repository contains only the downstream statistical analyses and figure generation path.
 
 Raw sequencing reads are available at the European Nucleotide Archive (ENA) under project accession PRJEB108463.
 
