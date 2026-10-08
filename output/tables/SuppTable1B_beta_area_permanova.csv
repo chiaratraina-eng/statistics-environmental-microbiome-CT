@@ -1,0 +1,49 @@
+"Kingdom","Analysis","Model","Term","Df","SumOfSqs","R2","F","Pr(>F)"
+"Bacterial","All compartments (2022)","dist ~ Area + Compartment + Area:Compartment","Area",2,2.27183226704984,0.0110389282613051,3.99084908963459,0.001
+"Bacterial","All compartments (2022)","dist ~ Area + Compartment + Area:Compartment","Compartment",4,59.3623011054503,0.288443910597332,52.1398495745776,0.001
+"Bacterial","All compartments (2022)","dist ~ Area + Compartment + Area:Compartment","Area:Compartment",8,7.54526259975029,0.0366627474041086,3.31362539545781,0.001
+"Bacterial","All compartments (2022)","dist ~ Area + Compartment + Area:Compartment","Residual",480,136.6224910654,0.663854413737253,NA,NA
+"Bacterial","All compartments (2022)","dist ~ Area + Compartment + Area:Compartment","Total",494,205.801887037651,1,NA,NA
+"Bacterial","Bulksoil (2022)","dist ~ Area / Tree","Model",23,5.31495418307286,1,NA,NA
+"Bacterial","Bulksoil (2022)","dist ~ Area / Tree","Residual",0,0,0,NA,NA
+"Bacterial","Bulksoil (2022)","dist ~ Area / Tree","Total",23,5.31495418307286,1,NA,NA
+"Bacterial","Rhizosphere (2022)","dist ~ Area / Tree","Area",2,2.61310326103543,0.06345933725158,4.20698610643101,0.001
+"Bacterial","Rhizosphere (2022)","dist ~ Area / Tree","Area:Tree",21,9.37118673335698,0.227579716510702,1.43687767996992,0.001
+"Bacterial","Rhizosphere (2022)","dist ~ Area / Tree","Residual",94,29.1933108789978,0.708960946237717,NA,NA
+"Bacterial","Rhizosphere (2022)","dist ~ Area / Tree","Total",117,41.1776008733903,1,NA,NA
+"Bacterial","Bark (2022)","dist ~ Area / Tree","Area",2,1.37737766788225,0.0339690267401804,2.35485924425854,0.002
+"Bacterial","Bark (2022)","dist ~ Area / Tree","Area:Tree",21,11.0950508223122,0.273627260594588,1.80655801539385,0.001
+"Bacterial","Bark (2022)","dist ~ Area / Tree","Residual",96,28.0756177761124,0.692403712665232,NA,NA
+"Bacterial","Bark (2022)","dist ~ Area / Tree","Total",119,40.5480462663068,1,NA,NA
+"Bacterial","Leaves (2022)","dist ~ Area / Tree","Area",2,2.07462307499511,0.113859050314289,14.1793033956829,0.001
+"Bacterial","Leaves (2022)","dist ~ Area / Tree","Area:Tree",21,9.41593378300829,0.516763402122132,6.12900234962528,0.001
+"Bacterial","Leaves (2022)","dist ~ Area / Tree","Residual",92,6.73041959725829,0.36937754756358,NA,NA
+"Bacterial","Leaves (2022)","dist ~ Area / Tree","Total",115,18.2209764552617,1,NA,NA
+"Bacterial","Olive (2022)","dist ~ Area / Tree","Area",2,2.81673449714025,0.0683307058906838,4.59979195878716,0.001
+"Bacterial","Olive (2022)","dist ~ Area / Tree","Area:Tree",21,9.93055576824776,0.240903743757211,1.5444595291344,0.001
+"Bacterial","Olive (2022)","dist ~ Area / Tree","Residual",93,28.4747995758393,0.690765550352105,NA,NA
+"Bacterial","Olive (2022)","dist ~ Area / Tree","Total",116,41.2220898412273,1,NA,NA
+"Fungal","All compartments (2022)","dist ~ Area + Compartment + Area:Compartment","Area",2,2.48706152193783,0.0131432371264651,5.73350421666019,0.001
+"Fungal","All compartments (2022)","dist ~ Area + Compartment + Area:Compartment","Compartment",4,75.3093007958239,0.39798291656918,86.8064963125951,0.001
+"Fungal","All compartments (2022)","dist ~ Area + Compartment + Area:Compartment","Area:Compartment",8,8.84287854872935,0.0467314735165553,5.09644423743984,0.001
+"Fungal","All compartments (2022)","dist ~ Area + Compartment + Area:Compartment","Residual",473,102.588230113995,0.542142372787798,NA,NA
+"Fungal","All compartments (2022)","dist ~ Area + Compartment + Area:Compartment","Total",487,189.227470980486,1,NA,NA
+"Fungal","Bulksoil (2022)","dist ~ Area / Tree","Model",23,6.698565337114,1,NA,NA
+"Fungal","Bulksoil (2022)","dist ~ Area / Tree","Residual",0,0,0,NA,NA
+"Fungal","Bulksoil (2022)","dist ~ Area / Tree","Total",23,6.698565337114,1,NA,NA
+"Fungal","Rhizosphere (2022)","dist ~ Area / Tree","Area",2,2.40792352660584,0.0713317127430012,5.44741464716949,0.001
+"Fungal","Rhizosphere (2022)","dist ~ Area / Tree","Area:Tree",21,10.7943615075033,0.31976941368345,2.32570916227604,0.001
+"Fungal","Rhizosphere (2022)","dist ~ Area / Tree","Residual",93,20.5544191583343,0.60889887357355,NA,NA
+"Fungal","Rhizosphere (2022)","dist ~ Area / Tree","Total",116,33.7567041924434,1,NA,NA
+"Fungal","Bark (2022)","dist ~ Area / Tree","Area",2,3.42538009505234,0.0910749278738215,7.82027482972862,0.001
+"Fungal","Bark (2022)","dist ~ Area / Tree","Area:Tree",21,13.8175985559797,0.36738602927394,3.0043914542701,0.001
+"Fungal","Bark (2022)","dist ~ Area / Tree","Residual",93,20.3675929411628,0.541539042852239,NA,NA
+"Fungal","Bark (2022)","dist ~ Area / Tree","Total",116,37.6105715921948,1,NA,NA
+"Fungal","Leaves (2022)","dist ~ Area / Tree","Area",2,1.61135808125743,0.108702900933589,18.6320274752408,0.001
+"Fungal","Leaves (2022)","dist ~ Area / Tree","Area:Tree",21,9.23391872334894,0.622924081176127,10.1686852055179,0.001
+"Fungal","Leaves (2022)","dist ~ Area / Tree","Residual",92,3.97822898427663,0.268373017890284,NA,NA
+"Fungal","Leaves (2022)","dist ~ Area / Tree","Total",115,14.823505788883,1,NA,NA
+"Fungal","Olive (2022)","dist ~ Area / Tree","Area",2,3.09431695414805,0.146821610167643,10.2481035123813,0.001
+"Fungal","Olive (2022)","dist ~ Area / Tree","Area:Tree",21,4.39371383758725,0.208476426238638,1.3858657932189,0.125
+"Fungal","Olive (2022)","dist ~ Area / Tree","Residual",90,13.5873201093679,0.644701963593719,NA,NA
+"Fungal","Olive (2022)","dist ~ Area / Tree","Total",113,21.0753509011032,1,NA,NA

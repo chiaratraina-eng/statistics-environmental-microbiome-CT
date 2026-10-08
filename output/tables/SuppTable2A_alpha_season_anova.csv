@@ -1,0 +1,13 @@
+"Kingdom","Model","Term","Df","Sum Sq","Mean Sq","F value","Pr(>F)"
+"Bacteria","Tree + Tree/Compartment + Compartment*Year","Tree",2,0.0323691027580523,0.0161845513790262,2.01915336991991,0.138426404252951
+"Bacteria","Tree + Tree/Compartment + Compartment*Year","Compartment",4,0.912393474549112,0.228098368637278,28.4571119038893,1.51871075655244e-15
+"Bacteria","Tree + Tree/Compartment + Compartment*Year","Year",1,0.0602467670576284,0.0602467670576284,7.51627029272095,0.00730658676315446
+"Bacteria","Tree + Tree/Compartment + Compartment*Year","Tree:Compartment",8,0.335066830343531,0.0418833537929413,5.2252863223728,1.99743456520339e-05
+"Bacteria","Tree + Tree/Compartment + Compartment*Year","Compartment:Year",4,0.0519898682295998,0.0129974670574,1.6215388857415,0.175177610373104
+"Bacteria","Tree + Tree/Compartment + Compartment*Year","Residuals",95,0.761473795855573,0.00801551364058498,NA,NA
+"Fungi","Tree + Tree/Compartment + Compartment*Year","Tree",2,0.0936518799728619,0.0468259399864309,1.44374443943241,0.241516186993394
+"Fungi","Tree + Tree/Compartment + Compartment*Year","Compartment",4,3.34201500855493,0.835503752138732,25.7603776160127,3.40853868185416e-14
+"Fungi","Tree + Tree/Compartment + Compartment*Year","Year",1,4.02083659291828e-05,4.02083659291828e-05,0.00123971039867524,0.971991519564929
+"Fungi","Tree + Tree/Compartment + Compartment*Year","Tree:Compartment",8,0.613445768923051,0.0766807211153814,2.36423155101808,0.0234792384268065
+"Fungi","Tree + Tree/Compartment + Compartment*Year","Compartment:Year",4,0.192582177841521,0.0481455444603803,1.48443068346866,0.213641254044479
+"Fungi","Tree + Tree/Compartment + Compartment*Year","Residuals",89,2.88659720167009,0.0324336764232594,NA,NA

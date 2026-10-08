@@ -1,0 +1,375 @@
+"Tree","Taxon","Category","Dataset","Start_Abund","End_Abund"
+"1","67-14","Lost","Bacteria",0.0466548976484531,0
+"1","Acetobacteraceae","Gained","Bacteria",0,0.0132782286842935
+"1","Acetobacteraceae","Lost","Bacteria",0.207447220587692,0.00995867151322014
+"1","Actinobacteria (Class)","Lost","Bacteria",0.0629519802788966,0
+"1","Aerococcaceae","Lost","Bacteria",0.0234930206151256,0
+"1","Alteromonadaceae","Lost","Bacteria",0.0403145213008479,0
+"1","Anaerovoracaceae","Lost","Bacteria",0.0525112984739098,0
+"1","Arcobacteraceae","Lost","Bacteria",0.128842150233471,0
+"1","Bacillaceae","Lost","Bacteria",1.51809467204567,0
+"1","Bacillales (Order)","Lost","Bacteria",0.0941474759620987,0
+"1","Bacteroidales RF16 group","Lost","Bacteria",0.062186216339571,0
+"1","Bacteroidetes VC2.1 Bac22 (Order)","Lost","Bacteria",0.0108115439644926,0
+"1","Beijerinckiaceae","Lost","Bacteria",0.405663448929955,0
+"1","Brevibacillaceae","Lost","Bacteria",0.0101102011930037,0
+"1","Burkholderiaceae","Lost","Bacteria",3.32441116079556,0.00912878222045179
+"1","Carnobacteriaceae","Lost","Bacteria",0.100827907424756,0
+"1","Caulobacteraceae","Lost","Bacteria",0.141275384782688,0
+"1","Celerinatantimonadaceae","Gained","Bacteria",0,5.37658122121238
+"1","Celerinatantimonadaceae","Lost","Bacteria",0.0435149083160954,0
+"1","Chitinophagaceae","Lost","Bacteria",0.0327920528616498,0
+"1","Christensenellaceae","Lost","Bacteria",0.0230108017647954,0
+"1","Clostridia (Class)","Lost","Bacteria",0.0276719811463404,0
+"1","Clostridiaceae","Lost","Bacteria",0.077669165461071,0
+"1","Comamonadaceae","Lost","Bacteria",1.65979649616563,0
+"1","Coriobacteriaceae","Lost","Bacteria",0.0108397991784573,0
+"1","Corynebacteriaceae","Gained","Bacteria",0.00596107418556824,0.0704464300831016
+"1","Corynebacteriaceae","Lost","Bacteria",0.441289351553852,0
+"1","Corynebacteriaceae","Persistent","Bacteria",0.393579882482117,1.50762532775614
+"1","Cryptosporangiaceae","Lost","Bacteria",0.0432177878453697,0
+"1","D05-2","Lost","Bacteria",0.131979309295603,0
+"1","Deinococcaceae","Lost","Bacteria",0.0156620137434171,0
+"1","Dermacoccaceae","Lost","Bacteria",0.0757639531947134,0
+"1","Devosiaceae","Lost","Bacteria",0.0492598314572511,0
+"1","Enterobacterales (Order)","Gained","Bacteria",0,0.0167245237914465
+"1","Enterobacterales (Order)","Lost","Bacteria",5.35667006349058,0.00921064750851985
+"1","Enterobacterales (Order)","Persistent","Bacteria",8.45827097136815,40.5333830690493
+"1","Enterobacteriaceae","Lost","Bacteria",3.7811075762751,0.0116813335259069
+"1","Enterobacteriaceae","Persistent","Bacteria",3.03040142894006,0.293043400819326
+"1","Erwiniaceae","Lost","Bacteria",7.22406727464576,0.00106475861922102
+"1","Erwiniaceae","Persistent","Bacteria",7.5460242123547,0.111205165230958
+"1","Erysipelotrichaceae","Lost","Bacteria",0.0117465103075628,0
+"1","Family XI","Lost","Bacteria",0.109372645342108,0
+"1","Frankiales (Order)","Lost","Bacteria",0.0402612948575923,0
+"1","Gaiellaceae","Lost","Bacteria",0.0257895726232811,0
+"1","Gaiellales (Order)","Lost","Bacteria",0.0216647168421509,0
+"1","Gammaproteobacteria (Class)","Gained","Bacteria",0,0.1759190037006
+"1","Gammaproteobacteria (Class)","Lost","Bacteria",0.0379961693974771,0
+"1","Gemellaceae","Lost","Bacteria",0.0161646128099802,0
+"1","Geodermatophilaceae","Lost","Bacteria",0.166963344988696,0
+"1","Halomonadaceae","Gained","Bacteria",0.017337857691403,14.1330809833411
+"1","Halomonadaceae","Persistent","Bacteria",0.591152999356021,36.0145480076517
+"1","Hymenobacteraceae","Lost","Bacteria",0.173192513147896,0
+"1","Hyphomicrobiales Incertae Sedis","Lost","Bacteria",0.054686322671054,0
+"1","Idiomarinaceae","Gained","Bacteria",0,0.0274414603062286
+"1","Intrasporangiaceae","Lost","Bacteria",0.19649589250103,0
+"1","Kineosporiaceae","Lost","Bacteria",0.0228057483346201,0
+"1","Lachnospiraceae","Lost","Bacteria",0.280364155535712,0
+"1","Lactobacillaceae","Lost","Bacteria",25.3680784819492,0.00532379309610511
+"1","Lactobacillaceae","Persistent","Bacteria",8.29966528697785,0.0639159761823539
+"1","Longimicrobiaceae","Lost","Bacteria",0.138735141107826,0
+"1","Lysobacteraceae","Lost","Bacteria",0.192552359606767,0
+"1","Lysobacterales (Order)","Lost","Bacteria",0.061056036391262,0
+"1","Micavibrionales (Order)","Lost","Bacteria",0.589275191514437,0
+"1","Microbacteriaceae","Lost","Bacteria",0.315684674096041,0
+"1","Microbacteriaceae","Persistent","Bacteria",0.128584920783518,0.310176569392313
+"1","Micrococcaceae","Lost","Bacteria",0.436484112135474,0.00165977858553669
+"1","Micrococcales (Order)","Lost","Bacteria",0.0234930206151256,0
+"1","Micromonosporaceae","Lost","Bacteria",0.078528301583881,0
+"1","Microscillaceae","Lost","Bacteria",0.046931813611059,0
+"1","Microtrichales (Order)","Lost","Bacteria",0.0497486698520805,0
+"1","Moraxellaceae","Lost","Bacteria",0.731616392393757,0.0134974047103783
+"1","Moraxellaceae","Persistent","Bacteria",0.24550529455913,0.11706621536466
+"1","Muribaculaceae","Lost","Bacteria",0.0479233226837061,0
+"1","Mycobacteriaceae","Lost","Bacteria",0.0599904059954306,0
+"1","Myxococcaceae","Gained","Bacteria",0,0.0269393639708079
+"1","Myxococcaceae","Lost","Bacteria",0.101795558011819,0
+"1","Neisseriaceae","Lost","Bacteria",0.0403294546583952,0
+"1","Nocardioidaceae","Lost","Bacteria",0.0920275716431399,0
+"1","Oscillospiraceae","Lost","Bacteria",0.105161849124567,0
+"1","Oxalobacteraceae","Gained","Bacteria",0,0.0471174671107943
+"1","Oxalobacteraceae","Lost","Bacteria",0.21507736848767,0
+"1","Paenibacillaceae","Lost","Bacteria",0.077450827571755,0
+"1","Paracoccaceae","Lost","Bacteria",2.41371905606166,0
+"1","Pectobacteriaceae","Lost","Bacteria",0.0352395309226884,0
+"1","Peptostreptococcaceae","Lost","Bacteria",0.1765028022686,0
+"1","Phaselicystaceae","Lost","Bacteria",0.0721667887799388,0
+"1","Phycisphaeraceae","Lost","Bacteria",0.101018604259618,0
+"1","Planococcaceae","Lost","Bacteria",0.0958772152854218,0
+"1","Prevotellaceae","Gained","Bacteria",0,0.0117123448114312
+"1","Prevotellaceae","Lost","Bacteria",0.0275749277346721,0
+"1","Propionibacteriaceae","Lost","Bacteria",0.184194728233721,0
+"1","Propionibacteriaceae","Persistent","Bacteria",1.77727619112185,0.129324336498347
+"1","Pseudomonadaceae","Lost","Bacteria",6.09288311021861,0
+"1","Pseudonocardiaceae","Lost","Bacteria",0.0396858016696016,0
+"1","Rhizobiaceae","Gained","Bacteria",0,0.0788094426092479
+"1","Rhizobiaceae","Lost","Bacteria",0.126563054091088,0
+"1","Rhizobiaceae","Persistent","Bacteria",0.0849979738572515,0.0473036896877956
+"1","Rhodanobacteraceae","Lost","Bacteria",0.58506608300362,0
+"1","Rhodocyclaceae","Lost","Bacteria",0.0436558428141085,0
+"1","Saprospiraceae","Lost","Bacteria",0.0217502419714419,0
+"1","Solirubrobacteraceae","Lost","Bacteria",0.0358824161294245,0
+"1","Sphingobacteriaceae","Gained","Bacteria",0,0.0151317780497112
+"1","Sphingobacteriaceae","Lost","Bacteria",0.178428988633017,0
+"1","Sphingomonadaceae","Gained","Bacteria",0,0.0672992341265424
+"1","Sphingomonadaceae","Lost","Bacteria",0.432530234092137,0
+"1","Sphingomonadaceae","Persistent","Bacteria",0.374188988845198,0.0364754869579048
+"1","Spirosomataceae","Lost","Bacteria",0.0215352688971985,0
+"1","Staphylococcaceae","Lost","Bacteria",0.946899535643511,0.00723693732812274
+"1","Streptococcaceae","Lost","Bacteria",0.828057418005491,0
+"1","Streptococcaceae","Persistent","Bacteria",0.223340216206952,0.0116184500987568
+"1","Thermoactinomycetaceae","Lost","Bacteria",0.091881534210666,0
+"1","Thermoanaerobaculaceae","Lost","Bacteria",0.0435004839428839,0
+"1","Unclassified","Gained","Bacteria",0,0.203306321443735
+"1","Unclassified","Lost","Bacteria",0.228127172166003,0
+"1","Unclassified","Persistent","Bacteria",0.0513781795894947,0.051221665611413
+"1","Vicinamibacterales (Order)","Lost","Bacteria",0.0414298988783005,0
+"1","Xanthobacteraceae","Gained","Bacteria",0.00798722044728435,0.0223469304972556
+"1","Xanthobacteraceae","Lost","Bacteria",0.0195752177742977,0
+"2","67-14","Lost","Bacteria",0.0279142474318892,0
+"2","Acetobacteraceae","Lost","Bacteria",0.311857549818865,0
+"2","Acidobacteriaceae (Subgroup 1)","Lost","Bacteria",0.0393098243112919,0
+"2","Aerococcaceae","Lost","Bacteria",0.0386654882898807,0
+"2","Alcaligenaceae","Lost","Bacteria",0.0275168770179043,0
+"2","Alteromonadaceae","Lost","Bacteria",0.037560760053027,0
+"2","Arcobacteraceae","Lost","Bacteria",0.254375351215856,0
+"2","Azospirillaceae","Lost","Bacteria",0.0287229341581971,0
+"2","Bacillaceae","Lost","Bacteria",2.17279401789234,0
+"2","Bacillales (Order)","Lost","Bacteria",0.321569335635385,0
+"2","Beijerinckiaceae","Lost","Bacteria",0.210148137194401,0
+"2","Bifidobacteriaceae","Lost","Bacteria",0.170500133725595,0
+"2","Blastocatellaceae","Lost","Bacteria",0.0262065495408613,0
+"2","Brevibacteriaceae","Lost","Bacteria",0.120353035571008,0
+"2","Bryobacteraceae","Lost","Bacteria",0.0201790431464632,0
+"2","Burkholderiaceae","Lost","Bacteria",0.666930141138477,0
+"2","Carnobacteriaceae","Lost","Bacteria",0.147411553068159,0
+"2","Caulobacteraceae","Lost","Bacteria",0.269941804041128,0
+"2","Celerinatantimonadaceae","Gained","Bacteria",0.00017284483235434,0.031364415195998
+"2","Cellulomonadaceae","Lost","Bacteria",0.0254203530546354,0
+"2","Christensenellaceae","Lost","Bacteria",0.119928043174096,0
+"2","Clostridiaceae","Lost","Bacteria",0.146721737423442,0
+"2","Comamonadaceae","Lost","Bacteria",5.73618077212198,0
+"2","Coriobacteriaceae","Lost","Bacteria",0.0149910053967619,0
+"2","Corynebacteriaceae","Lost","Bacteria",1.49425296258838,0
+"2","Corynebacteriaceae","Persistent","Bacteria",0.643980769048467,0.0115240564678767
+"2","Deinococcaceae","Lost","Bacteria",0.0799520287827304,0
+"2","Dermabacteraceae","Lost","Bacteria",0.0768922171703664,0
+"2","Devosiaceae","Lost","Bacteria",0.0436682321994671,0
+"2","Enterobacterales (Order)","Gained","Bacteria",0,0.010371650821089
+"2","Enterobacterales (Order)","Lost","Bacteria",13.6409422228782,0
+"2","Enterobacterales (Order)","Persistent","Bacteria",11.7813186792449,7.93762613575266
+"2","Enterobacteriaceae","Gained","Bacteria",0,10.7725368091729
+"2","Enterobacteriaceae","Lost","Bacteria",2.25383241813575,0
+"2","Enterobacteriaceae","Persistent","Bacteria",3.11785852073162,80.3276182113585
+"2","Erwiniaceae","Gained","Bacteria",0,0.0185825914786413
+"2","Erwiniaceae","Lost","Bacteria",21.323581977547,0
+"2","Erwiniaceae","Persistent","Bacteria",1.94836913697381,0.159974722836887
+"2","Exiguobacteraceae","Lost","Bacteria",0.103637336186146,0
+"2","Family XI","Lost","Bacteria",0.342016640777769,0
+"2","Fimbriimonadaceae","Lost","Bacteria",0.0149377332382909,0
+"2","Flavobacteriaceae","Lost","Bacteria",0.0936079165552287,0
+"2","Frankiaceae","Lost","Bacteria",0.037560760053027,0
+"2","Frankiales (Order)","Lost","Bacteria",0.0374775134919049,0
+"2","Gaiellales (Order)","Lost","Bacteria",0.0372189965758523,0
+"2","Gemellaceae","Lost","Bacteria",0.217765722879805,0
+"2","Geodermatophilaceae","Lost","Bacteria",0.472095183821345,0
+"2","Halomonadaceae","Gained","Bacteria",0.000138275865883472,0.0681360342905111
+"2","Halomonadaceae","Lost","Bacteria",0.0799520287827304,0
+"2","Halomonadaceae","Persistent","Bacteria",0.400269188932939,0.349319309789714
+"2","Hymenobacteraceae","Lost","Bacteria",0.0674595242854287,0
+"2","Hyphomicrobiales (Order)","Lost","Bacteria",0.0601765177855041,0
+"2","Ilumatobacteraceae","Lost","Bacteria",0.0110472823685373,0
+"2","Incertae Sedis","Lost","Bacteria",0.0902647766782562,0
+"2","Intrasporangiaceae","Lost","Bacteria",0.111656989727557,0
+"2","Kineosporiaceae","Lost","Bacteria",0.0374775134919049,0
+"2","Lachnospiraceae","Gained","Bacteria",0,0.023835061375283
+"2","Lachnospiraceae","Lost","Bacteria",0.621151112488431,0
+"2","Lactobacillaceae","Gained","Bacteria",0,0.0230481129357534
+"2","Lactobacillaceae","Lost","Bacteria",7.51556147707644,0
+"2","Lactobacillaceae","Persistent","Bacteria",6.79865867160312,0.154040666103408
+"2","Microbacteriaceae","Lost","Bacteria",0.448057737105862,0
+"2","Micrococcaceae","Lost","Bacteria",0.67293501014671,0
+"2","Micromonosporaceae","Lost","Bacteria",0.0188687156694201,0
+"2","Microtrichales (Order)","Lost","Bacteria",0.0574458683163942,0
+"2","Moraxellaceae","Lost","Bacteria",0.959500003789313,0.00345721694036301
+"2","Myxococcaceae","Lost","Bacteria",0.0972160848431286,0
+"2","Nakamurellaceae","Lost","Bacteria",0.128323769854942,0
+"2","Neisseriaceae","Lost","Bacteria",0.0474715170897462,0
+"2","Nocardiaceae","Lost","Bacteria",0.0788902584597364,0
+"2","Nocardioidaceae","Lost","Bacteria",0.390890907979707,0
+"2","Oscillospiraceae","Lost","Bacteria",0.112432540475715,0
+"2","Oxalobacteraceae","Gained","Bacteria",0,0.0397251022921384
+"2","Oxalobacteraceae","Lost","Bacteria",0.446613993009971,0
+"2","Paenibacillaceae","Lost","Bacteria",0.0682629545772102,0
+"2","Paracoccaceae","Lost","Bacteria",0.195194190856143,0
+"2","Pasteurellaceae","Lost","Bacteria",0.156487295773297,0
+"2","Pectobacteriaceae","Lost","Bacteria",0.0198851082633672,0
+"2","Peptostreptococcaceae","Lost","Bacteria",0.0274835098940636,0
+"2","Planococcaceae","Lost","Bacteria",0.290444577364761,0
+"2","Prevotellaceae","Lost","Bacteria",0.0674595242854287,0
+"2","Propionibacteriaceae","Lost","Bacteria",2.30428845198738,0
+"2","Pseudomonadaceae","Lost","Bacteria",2.2657895986274,0
+"2","Pseudomonadales (Order)","Lost","Bacteria",0.0224865080951429,0
+"2","Pseudonocardiaceae","Lost","Bacteria",0.148691618229342,0
+"2","Rhizobiaceae","Lost","Bacteria",0.373223549179985,0.00460962258715068
+"2","Rickettsiaceae","Gained","Bacteria",0,0.0103716956425914
+"2","Rikenellaceae","Lost","Bacteria",0.0749550269838097,0
+"2","Rubrobacteriaceae","Lost","Bacteria",0.0198851082633672,0
+"2","Ruminococcaceae","Lost","Bacteria",0.233523966925007,0
+"2","SC-I-84","Lost","Bacteria",0.0930474914396308,0
+"2","Solirubrobacteraceae","Lost","Bacteria",0.0224865080951429,0
+"2","Solirubrobacterales (Order)","Lost","Bacteria",0.0298276623950508,0
+"2","Sphingobacteriaceae","Lost","Bacteria",0.0132567388422448,0
+"2","Sphingomonadaceae","Lost","Bacteria",0.898331522727139,0
+"2","Spirosomataceae","Lost","Bacteria",0.0199880071956826,0
+"2","Staphylococcaceae","Lost","Bacteria",1.42166899320845,0
+"2","Streptococcaceae","Lost","Bacteria",1.59188118572257,0
+"2","Terriglobales (Order)","Lost","Bacteria",0.0668627975394491,0
+"2","Thermoactinomycetaceae","Lost","Bacteria",0.247392350895961,0
+"2","Thermomonosporaceae","Lost","Bacteria",0.10053026955369,0
+"2","Unclassified","Lost","Bacteria",0.0868522931514734,0
+"2","Vicinamibacteraceae","Lost","Bacteria",0.012096173887152,0
+"2","Weeksellaceae","Lost","Bacteria",0.0874771587418841,0
+"2","Xanthobacteraceae","Lost","Bacteria",0.22548047210294,0
+"2","Yersiniaceae","Lost","Bacteria",0.17864335480053,0
+"3","Acetobacteraceae","Lost","Bacteria",0.0261889173263496,0
+"3","Bacillaceae","Lost","Bacteria",0.166783706588614,0
+"3","Beijerinckiaceae","Lost","Bacteria",0.0462986238687224,0
+"3","Burkholderiaceae","Lost","Bacteria",0.146222387262516,0
+"3","Chitinophagaceae","Lost","Bacteria",0.0103784424923088,0
+"3","Comamonadaceae","Lost","Bacteria",1.69024023237053,0
+"3","Corynebacteriaceae","Lost","Bacteria",0.0347962820816025,0
+"3","Deinococcaceae","Lost","Bacteria",0.0119040533301589,0
+"3","Dermabacteraceae","Lost","Bacteria",0.065977241558249,0
+"3","Enterobacterales (Order)","Gained","Bacteria",0,6.98544327342764
+"3","Enterobacterales (Order)","Lost","Bacteria",1.51836339824207,0
+"3","Enterobacteriaceae","Gained","Bacteria",0.0077555165728003,90.688099690385
+"3","Enterobacteriaceae","Lost","Bacteria",0.0192041362755055,0
+"3","Erwiniaceae","Gained","Bacteria",0,0.246444388909955
+"3","Erwiniaceae","Lost","Bacteria",69.283880303713,0.000454634314888819
+"3","Erwiniaceae","Persistent","Bacteria",0.460470100041629,0.40469324924709
+"3","Family XI","Lost","Bacteria",0.0357121599904768,0
+"3","Gaiellales (Order)","Lost","Bacteria",0.0133437117758256,0
+"3","Gammaproteobacteria (Class)","Gained","Bacteria",0,0.0172761039657751
+"3","Geodermatophilaceae","Lost","Bacteria",0.0985952036769339,0
+"3","Halomonadaceae","Gained","Bacteria",0,1.28280935448904
+"3","Hymenobacteraceae","Lost","Bacteria",0.0437377219318729,0
+"3","Intrasporangiaceae","Lost","Bacteria",0.0133437117758256,0
+"3","Kineosporiaceae","Lost","Bacteria",0.0874592999598771,0
+"3","Lactobacillaceae","Gained","Bacteria",0,0.0718365980872925
+"3","Lactobacillaceae","Lost","Bacteria",2.59491603683267,0
+"3","Microbacteriaceae","Lost","Bacteria",0.514200830271018,0
+"3","Micrococcaceae","Gained","Bacteria",0,0.0136390294466646
+"3","Micrococcaceae","Lost","Bacteria",0.0508730351980923,0
+"3","Micrococcales (Order)","Lost","Bacteria",0.0309505386584132,0
+"3","Micromonosporaceae","Lost","Bacteria",0.0103784424923088,0
+"3","Microtrichales (Order)","Lost","Bacteria",0.0489269431780274,0
+"3","Moraxellaceae","Lost","Bacteria",0.0457732969132412,0.00500097746377701
+"3","Myxococcaceae","Lost","Bacteria",0.0632841685371517,0
+"3","Nakamurellaceae","Lost","Bacteria",0.0452203565736313,0
+"3","Nocardiaceae","Lost","Bacteria",0.113228365112016,0
+"3","Nocardioidaceae","Lost","Bacteria",0.0133437117758256,0
+"3","Oligoflexaceae","Lost","Bacteria",0.0119040533301589,0
+"3","Oxalobacteraceae","Lost","Bacteria",0.305369038018819,0
+"3","Paenibacillaceae","Lost","Bacteria",0.0868995893101601,0
+"3","Paracoccaceae","Lost","Bacteria",0.0192634635632664,0
+"3","Pectobacteriaceae","Lost","Bacteria",18.6296080939644,0
+"3","Polyangiaceae","Lost","Bacteria",0.0222395196263761,0
+"3","Prevotellaceae","Lost","Bacteria",0.0348419140813225,0
+"3","Propionibacteriaceae","Lost","Bacteria",0.0698556474858718,0
+"3","Propionibacteriaceae","Persistent","Bacteria",0.348534646024971,0.0560314354118116
+"3","Pseudomonadaceae","Lost","Bacteria",1.19053952969569,0
+"3","Pseudonocardiaceae","Lost","Bacteria",0.153510352501731,0
+"3","Rubrobacteriaceae","Lost","Bacteria",0.0132565882400098,0
+"3","Solirubrobacteraceae","Lost","Bacteria",0.0459616738945105,0
+"3","Solirubrobacterales (Order)","Lost","Bacteria",0.0118610771340672,0
+"3","Sphingobacteriaceae","Lost","Bacteria",0.0321409439914291,0
+"3","Staphylococcaceae","Lost","Bacteria",0.0415137699692353,0
+"3","Staphylococcaceae","Persistent","Bacteria",0.122278994771236,0.0213678127997745
+"3","Streptococcaceae","Lost","Bacteria",0.0133437117758256,0
+"3","Unclassified","Lost","Bacteria",0.767087658551331,0
+"3","Unclassified","Persistent","Bacteria",0.108207921706214,0.0145482980764422
+"3","Yersiniaceae","Lost","Bacteria",0.0424706859939064,0
+"1","Boubovia","Lost","Fungi",0.125178826895565,0
+"1","Citeromyces","Gained","Fungi",0.00079704773518886,7.12295390864165
+"1","Cladosporium","Lost","Fungi",0.0172693675957586,0
+"1","Clitocybe","Lost","Fungi",2.78969957081545,0
+"1","Coprinopsis","Lost","Fungi",0.663207336166406,0
+"1","Didymosphaeriaceae (Fam)","Gained","Fungi",0,3.45781466113416
+"1","Eichleriella","Lost","Fungi",10.1394849785408,0
+"1","Hymenochaetaceae (Fam)","Lost","Fungi",0.106804396515307,0
+"1","Hymenochaetales (Ord)","Lost","Fungi",0.0698745181182234,0
+"1","Hyphopichia","Persistent","Fungi",0.581943479919762,0.168839958503496
+"1","Kazachstania","Lost","Fungi",27.268268701757,0
+"1","Kwoniella","Gained","Fungi",0,0.0359738110655443
+"1","Malassezia","Lost","Fungi",0.105618926911703,0
+"1","Malassezia","Persistent","Fungi",0.886663103299814,0.0688326562637084
+"1","Microstroma","Lost","Fungi",0.800293748210149,0
+"1","Nakazawaea","Gained","Fungi",0,0.0791423843441974
+"1","Nakazawaea","Lost","Fungi",0.0357653791130186,0
+"1","Ochrocladosporium","Lost","Fungi",0.126742712294043,0
+"1","Phaeomoniellales (Ord)","Lost","Fungi",0.211237853823405,0
+"1","Phaeosphaeria","Gained","Fungi",0,6.77746600474854
+"1","Preussia","Gained","Fungi",0,0.0230520977408944
+"1","Saccharomycetales (Ord)","Gained","Fungi",0.00385239738674616,13.8746450493471
+"1","Symmetrospora","Lost","Fungi",0.126742712294043,0
+"1","Unclassified Fungi","Gained","Fungi",0,27.0527820125875
+"1","Unclassified Fungi","Lost","Fungi",13.9953972299143,0
+"1","Unclassified Fungi","Persistent","Fungi",41.5881793881613,14.1450347989343
+"1","Wickerhamomyces","Gained","Fungi",0.00185977804877401,2.2634003255471
+"1","Wickerhamomyces","Persistent","Fungi",0.0387896564458579,11.2705151951497
+"1","Zygotorulaspora","Gained","Fungi",0,0.0115260488704472
+"1","Zygotorulaspora","Persistent","Fungi",0.268240343347639,13.6350633004733
+"2","Bovista","Lost","Fungi",0.0860515499402701,0
+"2","Cercospora","Lost","Fungi",0.324254215304799,0
+"2","Chaetomiaceae (Fam)","Lost","Fungi",0.0131608252849825,0
+"2","Citeromyces","Gained","Fungi",0,0.250581057524695
+"2","Citeromyces","Persistent","Fungi",2.04851496021393,0.370424171993027
+"2","Cladosporium","Lost","Fungi",0.226142582565748,0
+"2","Coprinopsis","Lost","Fungi",0.31079795096074,0
+"2","Didymellaceae (Fam)","Lost","Fungi",0.03813882532418,0
+"2","Erysiphe","Gained","Fungi",0,0.0217896571760604
+"2","Hanseniaspora","Persistent","Fungi",0.05720823798627,0.0583722481654436
+"2","Hymenoscyphus","Gained","Fungi",0,0.0690005810575247
+"2","Hyphopichia","Gained","Fungi",0,18.3965540265271
+"2","Hyphopichia","Persistent","Fungi",0.291828793774319,61.8754915634246
+"2","Kazachstania","Lost","Fungi",19.0877378710702,0
+"2","Malassezia","Gained","Fungi",0,0.141761174116077
+"2","Malassezia","Lost","Fungi",5.56834269737955,0
+"2","Microstroma","Persistent","Fungi",0.0256520941429746,0.0762638001162115
+"2","Mycosphaerellaceae (Fam)","Lost","Fungi",0.0556804146672336,0
+"2","Mycosphaerellales (Ord)","Gained","Fungi",0,0.036316095293434
+"2","Nakazawaea","Persistent","Fungi",0.518806744487678,0.0108948285880302
+"2","Penicillium","Lost","Fungi",0.0192350523395898,0
+"2","Peniophora","Lost","Fungi",0.0574980166221428,0
+"2","Physisporinus","Lost","Fungi",2.45995423340961,0
+"2","Pseudeurotiaceae_gen_Incertae_sedis","Lost","Fungi",4.83197928109415,0
+"2","Saccharomyces","Gained","Fungi",0,0.537725324533613
+"2","Saccharomycetales (Ord)","Gained","Fungi",0,0.283265543288786
+"2","Schizopora","Lost","Fungi",1.18230358504958,0
+"2","Starmerella","Persistent","Fungi",0.324254215304799,0.141761174116077
+"2","Unclassified Fungi","Gained","Fungi",0,10.0677495048994
+"2","Unclassified Fungi","Lost","Fungi",16.6837560902621,0
+"2","Unclassified Fungi","Persistent","Fungi",38.3866076004247,1.0016143824723
+"2","Vishniacozyma","Lost","Fungi",0.4269527377675,0
+"2","Wickerhamomyces","Gained","Fungi",0,5.87184260744816
+"2","Xylodon","Lost","Fungi",0.194552529182879,0
+"2","Zygotorulaspora","Persistent","Fungi",6.38780804150454,0.766802602083357
+"3","Citeromyces","Gained","Fungi",0,15.5513827244793
+"3","Cladosporium","Lost","Fungi",0.438733917377216,0
+"3","Coprinopsis","Lost","Fungi",0.43035107587769,0
+"3","Cystofilobasidium","Lost","Fungi",0.0230101453822822,0
+"3","Hanseniaspora","Lost","Fungi",0.133986434081631,0
+"3","Hyphopichia","Gained","Fungi",0,16.4838682144076
+"3","Kazachstania","Lost","Fungi",2.26417286002133,0
+"3","Malassezia","Lost","Fungi",0.0732140989436252,0
+"3","Microstroma","Lost","Fungi",0.429594764956516,0
+"3","Mycocalicium","Lost","Fungi",0.0271938081790608,0
+"3","Mycosphaerellaceae (Fam)","Lost","Fungi",0.201827379372339,0
+"3","Nakazawaea","Gained","Fungi",0,4.14888471605781
+"3","Neocucurbitaria","Lost","Fungi",0.125509883903357,0
+"3","Papiliotrema","Gained","Fungi",0,0.66006600660066
+"3","Penicillium","Gained","Fungi",0,1.29310344827586
+"3","Penicillium","Lost","Fungi",0.0339750849377123,0
+"3","Peniophora","Lost","Fungi",0.13601215224422,0
+"3","Ramularia","Lost","Fungi",0.121326221106579,0
+"3","Sporormiella","Lost","Fungi",0.0679501698754247,0
+"3","Symmetrospora","Lost","Fungi",0.0416101859656733,0
+"3","Taphrina","Lost","Fungi",0.0342348510783978,0
+"3","Unclassified Fungi","Gained","Fungi",0,5.04794013884147
+"3","Unclassified Fungi","Lost","Fungi",5.80634756415966,0
+"3","Unclassified Fungi","Persistent","Fungi",89.471872337467,10.1769659724593
+"3","Vishniacozyma","Lost","Fungi",0.0921647873692664,0
+"3","Wickerhamomyces","Gained","Fungi",0,2.97029702970297
+"3","Zygotorulaspora","Gained","Fungi",0,43.6674917491749

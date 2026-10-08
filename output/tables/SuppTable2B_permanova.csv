@@ -1,0 +1,11 @@
+"Kingdom","Analysis","Model","Term","Df","SumOfSqs","R2","F","Pr(>F)"
+"Bacteria","Tree compartments","dist ~ Year + Tree + Compartment","Year",1,0.913043321340982,0.0187968085540018,3.5572806942279,0.001
+"Bacteria","Tree compartments","dist ~ Year + Tree + Compartment","Tree",2,1.50051578245286,0.0308910949083996,2.92305726329847,0.001
+"Bacteria","Tree compartments","dist ~ Year + Tree + Compartment","Compartment",4,18.6972486315594,0.384919964693268,18.2114473753941,0.001
+"Bacteria","Tree compartments","dist ~ Year + Tree + Compartment","Residual",107,27.4635722567543,0.565392131844331,NA,NA
+"Bacteria","Tree compartments","dist ~ Year + Tree + Compartment","Total",114,48.5743799921075,1,NA,NA
+"Fungi","Tree compartments","dist ~ Year + Tree + Compartment","Year",1,2.50347474376928,0.0566784350427088,8.24724123518138,0.001
+"Fungi","Tree compartments","dist ~ Year + Tree + Compartment","Tree",2,1.51403256495695,0.0342775562641614,2.49385216132046,0.001
+"Fungi","Tree compartments","dist ~ Year + Tree + Compartment","Compartment",4,11.3147515604833,0.256164921552069,9.31859666925913,0.001
+"Fungi","Tree compartments","dist ~ Year + Tree + Compartment","Residual",95,28.8375341372988,0.652879087141061,NA,NA
+"Fungi","Tree compartments","dist ~ Year + Tree + Compartment","Total",102,44.1697930065083,1,NA,NA
