@@ -66,4 +66,4 @@ Check with `git status`: no table should show up as modified.
 
 ## Authors and contacts
 
-Livio Antonielli (livio.antonielli@ait.ac.at), Laurenz Holcik (Laurenz.Holcik@ait.ac.at), Chiara Traina (chiara.traina@unito.it)
+Livio Antonielli (livio.antonielli@ait.ac.at), Laurenz Holcik (laurenz.holcik@gmail.com), Chiara Traina (chiara.traina@unito.it)
